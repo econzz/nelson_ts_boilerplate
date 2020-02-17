@@ -24,4 +24,4 @@ use this command to create bundle for development
 
 npm run make-live
 
-use this command to create bundle for live
+use this command to create bundle for live test
